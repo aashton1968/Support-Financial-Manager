@@ -1,2 +1,2 @@
-# Support-Financial-Manager-
+# Support-Financial-Manager
 Support &amp; documents for the Financial Manager App
